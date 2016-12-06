@@ -1,0 +1,2 @@
+C:\Users\brebu\Documents\Visual Studio 2015\Projects\Palindrom App\Palindrom App\Palindrom_App.UWP\Palindrom_App.UWP.csproj;x86
+C:\Users\brebu\Documents\Visual Studio 2015\Projects\Palindrom App\Palindrom App\Palindrom_App\Palindrom_App.csproj;neutral
